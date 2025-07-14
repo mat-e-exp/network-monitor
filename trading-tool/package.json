@@ -1,0 +1,12 @@
+{
+  "name": "trading-tool",
+  "version": "1.0.0",
+  "description": "FTSE 100 Risk Analysis Tool",
+  "main": "data-processor.js",
+  "scripts": {
+    "process": "node data-processor.js",
+    "test": "node test-processor.js"
+  },
+  "dependencies": {},
+  "keywords": ["trading", "risk", "analysis", "ftse100"]
+}
