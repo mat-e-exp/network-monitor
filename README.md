@@ -42,4 +42,7 @@ These scripts are designed for **defensive security monitoring** to help identif
 - Unusual network activity
 - Potential malware (specifically PowerChimes detection)
 - Exposed services and ports
+
+## Usage warning!
+The script was completely convinced that PowerChimes was something sinister amd was telling me to kill the porcess. It took a lot of convinving for it to realise that it was a normal Apple IOS service - the joys of vibe coding........
 - Suspicious connection patterns
